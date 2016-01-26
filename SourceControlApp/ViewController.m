@@ -18,6 +18,7 @@
     [super viewDidLoad];
     
     NSLog(@"This is a test, trying xcode 6 git source control");
+    NSLog(@"This is another branch");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
